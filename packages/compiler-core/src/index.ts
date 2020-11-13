@@ -1,3 +1,5 @@
-interface Index {
+import {Index, Route, State, Metadata} from 'typeDefine';
 
-}
+
+
+

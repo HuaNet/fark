@@ -4,7 +4,6 @@ A framework that handles communication between different framework components of
 
 ![fark](./fark.png)
 
-
 ## Install
 
 This project uses node and npm. Go check them out if you don't have them locally installed.
