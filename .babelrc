@@ -1,0 +1,22 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "modules": false
+      }
+    ],
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    "@babel/proposal-object-rest-spread",
+    [
+      "@babel/plugin-external-helpers",
+      {
+        "externalHelpers": true
+      }
+    ],
+    "@babel/plugin-transform-runtime"
+  ]
+}
